@@ -1,0 +1,15 @@
+torch>=2.3
+torchvision>=0.18
+transformers>=4.40
+pandas
+numpy
+scikit-learn
+captum
+opencv-python
+matplotlib
+plotly
+streamlit>=1.35
+pillow
+tqdm
+requests
+pytest

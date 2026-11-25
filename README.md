@@ -182,7 +182,7 @@ Issues and pull requests are welcome. Run `pytest` before submitting.
 
 ## Author
 
-**YOUR NAME**, Bachelor's student in Data Science
+**CHAYMAE EL BAHLOUL**, Bachelor's student in Data Science
 
 [GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 

@@ -8,7 +8,7 @@ captum
 opencv-python
 matplotlib
 plotly
-streamlit>=1.35
+streamlit>=1.40
 pillow
 tqdm
 requests

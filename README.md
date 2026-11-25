@@ -68,7 +68,7 @@ A headline can be perfectly worded and still mislead, because the photo next to 
 ## Demo
 
 <div align="center">
-<img src="reports/figures/demo_result.png" alt="FakeShield AI interface: verdict, confidence and explanation tabs" width="92%" />
+<img src="reports/results/demo_result.png" alt="FakeShield AI interface: verdict, confidence and explanation tabs" width="92%" />
 </div>
 
 Each analysis returns a verdict, a confidence score, a text-image consistency check and three tabs: **Analysis**, **Explanation** (influential words) and **Visual Insights** (Grad-CAM).

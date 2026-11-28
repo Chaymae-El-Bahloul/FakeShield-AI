@@ -299,9 +299,6 @@ FakeShield-AI/
 - Sundararajan et al., *Axiomatic Attribution for Deep Networks*, 2017.
 - Selvaraju et al., *Grad-CAM: Visual Explanations from Deep Networks*, 2017.
 
-## Contributing
-
-Issues, ideas and feedback on the experimental protocol are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Author
 
